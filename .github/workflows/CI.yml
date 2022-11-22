@@ -47,4 +47,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: [phil91ip]/app:latest
+          tags: phil91ip/app:latest
